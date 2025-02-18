@@ -1,0 +1,22 @@
+#custom-nav {
+  position: fixed;
+  width: 100vw;
+  top: 0px;
+  left: 0px;
+  background-color: blue;
+  color: white;
+  height: 50px;
+}
+
+#title {
+  margin-left: 20px;
+  color: white;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  height: 100vh;
+  padding-top: 50px;
+}
